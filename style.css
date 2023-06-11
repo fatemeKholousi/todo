@@ -131,3 +131,7 @@ header h1 {
   width: 32px;
   color:white
 }
+
+.edit-mode{
+  color:gray;
+}
